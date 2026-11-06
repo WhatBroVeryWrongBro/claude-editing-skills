@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#f4dfb8"/><rect y="1180" width="1080" height="740" fill="#c9965a"/>
+<rect x="120" y="1150" width="840" height="50" rx="10" fill="#8a5a2b" stroke="#111" stroke-width="8"/>
+<g stroke="#111" stroke-width="8"><rect x="640" y="880" width="200" height="270" rx="30" fill="#ffe36b" fill-opacity=".9"/><rect x="630" y="850" width="220" height="40" rx="12" fill="#bbb"/></g>
+<ellipse cx="740" cy="1000" rx="55" ry="45" fill="#f29cb7" stroke="#111" stroke-width="7"/>
+<use href="#hero-scared" x="140" y="560" width="300" height="700"/>
+</svg>

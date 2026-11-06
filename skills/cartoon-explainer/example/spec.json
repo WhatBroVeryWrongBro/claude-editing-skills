@@ -1,0 +1,10 @@
+{
+  "out": "../../../.work/cartoon-explainer.mp4",
+  "voice_dir": "voice",
+  "music": true,
+  "scenes": [
+    {"svg": "scenes/01.svg", "text": "If you put your brain in a jar, it would not just stop.", "camera": "push", "sfx": ["squish@0.4"]},
+    {"svg": "scenes/02.svg", "text": "Hook it up to a machine pumping oxygen and it keeps going.", "camera": "pan-right", "sfx": ["beep@1.0"]},
+    {"svg": "scenes/03.svg", "text": "So would you still sign up?", "camera": "pull", "transition": "zoom", "sfx": ["ding@0.2"]}
+  ]
+}

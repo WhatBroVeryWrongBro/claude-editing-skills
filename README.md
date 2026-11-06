@@ -11,6 +11,7 @@ Eleven skills for Claude Code: six workflows that edit your talking-head clips a
 | `/explainer` | **You at the bottom, visuals on top.** A rounded panel on a light backdrop with your head breaking out over it, and a before-to-after comparison (or a list) explaining the point. |
 | `/split-screen` | **The classic half-and-half.** A step badge, a serif headline and a window showing the step on top, you on the bottom, and captions on the seam. |
 | `/ranking-list` | **A tier list on your chest.** Each item pops up when you name it and drops into its tier (S to F) on the verdict. |
+| `/cartoon-explainer` | **A narrated 2D cartoon Short from a topic.** ElevenLabs voices it; Claude Code writes the script, draws each scene as SVG, adds outlined captions, whip-pan transitions, SFX and music. |
 | `/storytelling` | **Three image cards, a title and a subtitle**, all landing together over one continuous take, with simple TikTok-style captions. |
 
 ## Five new photographic styles

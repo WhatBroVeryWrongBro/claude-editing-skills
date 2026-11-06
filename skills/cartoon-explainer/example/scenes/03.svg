@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><pattern id="g" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#b36bff" stroke-opacity=".5" stroke-width="3"/></pattern></defs>
+<rect width="1080" height="1920" fill="#1b0f3a"/><rect width="1080" height="1920" fill="url(#g)"/>
+<circle cx="540" cy="900" r="420" fill="#b36bff" fill-opacity=".18"/>
+<use href="#hero-happy" x="290" y="560" width="500" height="1000"/>
+</svg>
